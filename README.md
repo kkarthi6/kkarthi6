@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavin Karthikeyan
 - 👀 I’m interested in all things data
-- 🌱 Graduated with Master's degree in Statistics from Arizona State University
+- 🌱 Statistics nerd
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : Mail - kkarthi6@asu.edu
 
